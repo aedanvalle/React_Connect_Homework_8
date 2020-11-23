@@ -6,7 +6,8 @@
 Installation:
 
 Alternative 1
-    -download the files and type 'npm start' for program to run.  
+    -download the files 
+    -cd to folder, then type 'npm start' for program to run.  
     -will running be running on port 3000
 
 Alternative 2
